@@ -1,0 +1,63 @@
+# section information
+section:
+  name: Skills
+  id: skills
+  enable: true
+  weight: 2
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+# Your Skills.
+# Give a summary of you each skill in the summary section.
+skills:
+- name: Python Development
+  logo: "/images/sections/skills/python.png"
+  summary: "10+ years of experience with Python for data analytics, ML, and AI applications. Expert in pandas, numpy, scikit-learn, tensorflow, keras, pytorch, and more."
+  url: "https://www.python.org/"
+
+- name: Artificial Intelligence & Machine Learning
+  logo: "/images/sections/skills/ai.png"
+  summary: "Extensive experience with GPT-4, Claude, RAG systems, Langchain, NLP, and various ML algorithms including regression, classification, clustering, and neural networks."
+
+- name: Microsoft Azure
+  logo: "/images/sections/skills/azure.png"
+  summary: "Deep expertise in Azure ecosystem including Cosmos DB, Blob Storage, Azure Data Factory, Azure Databricks, Azure SQL, Azure OpenAI, and Azure Cognitive Services."
+  url: "https://azure.microsoft.com/"
+
+- name: Data Analytics & BI
+  logo: "/images/sections/skills/analytics.png"
+  summary: "Proficient in PowerBI, data visualization, statistical analysis, and creating comprehensive reporting solutions. Experience with SAP FICO and BW systems."
+
+- name: Databases & SQL
+  logo: "/images/sections/skills/database.png"
+  summary: "Expert in PostgreSQL, Microsoft SQL Server, Azure SQL, Cosmos DB, and complex query optimization for large-scale data processing."
+
+- name: DevOps & Tools
+  logo: "/images/sections/skills/devops.png"
+  summary: "Experienced with Git, GitActions, Docker, Airflow, Jenkins, CI/CD pipelines, and modern software development practices."
+
+- name: Web Development
+  logo: "/images/sections/skills/web.png"
+  summary: "Proficient in building web applications with Flask, FastAPI, Streamlit, Dash, and frontend technologies like JavaScript."
+
+- name: Data Science Libraries
+  logo: "/images/sections/skills/data-science.png"
+  summary: "Expert in pandas, numpy, scikit-learn, plotly, matplotlib, seaborn, beautifulsoup, selenium, scrapy, and sqlalchemy for comprehensive data analysis."
+
+- name: Machine Learning Frameworks
+  logo: "/images/sections/skills/ml.png"
+  summary: "Hands-on experience with TensorFlow, Keras, PyTorch, PySpark, and various ML algorithms including NLP, time series forecasting, and deep learning."
+
+- name: AI & LLM Technologies
+  logo: "/images/sections/skills/llm.png"
+  summary: "Cutting-edge expertise in OpenAI GPT models, Langchain, RAG (Retrieval-Augmented Generation), prompt engineering, and LLM integration."
+
+- name: Automation & RPA
+  logo: "/images/sections/skills/automation.png"
+  summary: "Experience in RPA development, process automation, VBA programming, and workflow optimization to improve operational efficiency."
+
+- name: Business Intelligence
+  logo: "/images/sections/skills/bi.png"
+  summary: "Comprehensive BI skills including PowerBI dashboard creation, SAP reporting, data transformation, and executive-level data visualization."
+

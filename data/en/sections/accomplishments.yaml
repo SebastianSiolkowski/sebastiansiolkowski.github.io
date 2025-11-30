@@ -1,0 +1,55 @@
+# section information
+section:
+  name: Accomplishments
+  id: accomplishments
+  enable: true
+  weight: 6
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+# Your accomplishments
+accomplishments:
+- name: Languages
+  timeline: ""
+  organization:
+    name: ""
+    url: ""
+  achievements:
+  - Polish (Native)
+  - English (Professional Working Proficiency)
+
+- name: Certifications & Trainings
+  timeline: ""
+  organization:
+    name: ""
+    url: ""
+  achievements:
+  - Extensive experience with Azure cloud services
+  - Advanced Python programming and ML frameworks
+  - AI and LLM technologies including GPT-4 and Claude
+  - SAP FICO and Business Warehouse systems
+
+- name: Professional Achievements
+  timeline: ""
+  organization:
+    name: ""
+    url: ""
+  achievements:
+  - Organized internal AI hackathon at IQVIA
+  - Champion in data and AI across wider community
+  - Led global trainings for Cognos BI
+  - Presented to global management across multiple organizations
+  - Mentored developers and data scientists on AI methodologies
+
+- name: Hobbies & Interests
+  timeline: ""
+  organization:
+    name: ""
+    url: ""
+  achievements:
+  - Spending time with my dog
+  - Coffee enthusiast
+  - Weightlifting and fitness
+  - Wrist watch collection
+

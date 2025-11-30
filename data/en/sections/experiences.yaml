@@ -1,0 +1,138 @@
+# section information
+section:
+  name: Experiences
+  id: experiences
+  enable: true
+  weight: 3
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+# Your experiences
+experiences:
+- company:
+    name: Causewaybti
+    url: ""
+    location: Remote
+    # company overview
+    overview: AI architecture and strategy consulting
+  positions:
+  - designation: AI Architect (Part Time)
+    start: June 2023
+    # don't provide end date if you are currently working there. It will be replaced by "Present"
+    # end: Dec 2020
+    # give some points about what was your responsibilities at the company.
+    responsibilities:
+    - Developing AI strategy and roadmap aligned with business objectives
+    - Overseeing end-to-end AI solution design, development, and deployment
+    - Advising stakeholders on AI tools, frameworks, and best practices
+    - Enforcing secure, ethical AI governance and compliance standards
+    - Reviewing code and data pipelines to ensure quality and reliability
+    - Mentoring developers and data scientists on advanced AI methodologies
+    - Collaborating with cross-functional teams to define project scopes and milestones
+    - Optimizing AI models for performance, scalability, and continuous improvement
+    - Identifying and mitigating potential risks (e.g., data integrity, bias)
+    - Championing AI thought leadership and knowledge sharing within the organization
+
+- company:
+    name: IQVIA
+    url: "https://www.iqvia.com/"
+    location: Remote/Hybrid
+    overview: Leading global provider of advanced analytics, technology solutions and clinical research services
+  positions:
+  - designation: Senior AI Engineer
+    start: January 2021
+    responsibilities:
+    - Developing Python applications utilizing Azure cognitive services
+    - Building data architecture for SAP RFC data pipeline
+    - Created anomaly detection pipeline for data quality monitoring
+    - Performing exploratory data analysis across multiple departments
+    - Champion in data and AI across wider community
+    - Preparing comprehensive technical documentation
+    - Organized internal AI hackathon to foster innovation
+    - Preprocessing data pipelines for machine learning workflows
+    - Time series forecasting using hierarchical models, Prophet and ARIMA
+    - Intelligence documents processing project in Azure
+    - Developing internal SharePoint library based on REST API
+    - Collaborating with business owners in overseeing data and AI delivery efforts
+
+- company:
+    name: TÜV Rheinland
+    url: "https://www.tuv.com/"
+    location: Poland
+    overview: International service provider for testing, inspection and certification
+  positions:
+  - designation: AI Python Developer
+    start: September 2019
+    end: December 2020
+    responsibilities:
+    - Developing Python applications for AI and automation
+    - Driving design and implementation decisions using best practices
+    - Influencing and contributing to data strategy
+    - Supporting non-technical people with knowledge about data and AI process automation
+    - Conducting exploratory data analysis for insights
+    - Preparing detailed technical documentation
+    - Finding new ways to solve emerging problems with innovative solutions
+    - Working alongside business experts for optimal data solutions
+    - Taking business requirements and developing total technical design
+    - Ensuring proper usage as part of design efforts for production systems
+
+- company:
+    name: ING Tech Poland (ING Group)
+    url: "https://www.ing.com/"
+    location: Poland
+    overview: Technology division of ING Bank supporting global operations
+  positions:
+  - designation: Robotic Process Automation Developer with AI Automation
+    start: November 2018
+    end: September 2019
+    responsibilities:
+    - Delivering automation projects in Automation Anywhere
+    - Creating Python scripts to expand RPA software capabilities
+    - Advising in creation of global scripting standards
+    - Using SQL to extract, transform, and load data into different systems
+    - Providing RPA operational support for robots, end users, and technical teams
+    - Working with ServiceNow ticketing system for banking automation projects
+    - Providing technical direction to help developers
+    - Supporting daily operations of automated banking processes
+
+- company:
+    name: Eurofins
+    url: "https://www.eurofins.com/"
+    location: Poland
+    overview: International group of laboratories providing testing and support services
+  positions:
+  - designation: Reporting Expert
+    start: 2017
+    end: November 2018
+    responsibilities:
+    - Improving reporting processes via VBA and Excel automation
+    - Day-to-day activities related to reporting data
+    - Analyzing reports in IBM Cognos TM1
+    - Leading global trainings for Cognos BI
+    - IBM Cognos Business Intelligence reports maintenance
+    - Using several techniques to solve complex problems with multiple data sources
+    - Providing actual and normalized interval, daily, monthly, yearly forecast projections
+    - Supporting internal clients and higher management with data insights
+
+- company:
+    name: Hager Group, Rockwell Automation
+    url: ""
+    location: Poland
+    overview: Global companies in electrical equipment and industrial automation
+  positions:
+  - designation: Financial Data Analyst
+    start: 2015
+    end: 2017
+    responsibilities:
+    - Improving reporting processes via VBA, Access Databases and SAP
+    - Supercurator role in Microsoft SharePoint
+    - Improving financial processes using VBA automation
+    - Driving standardization for internal companies
+    - Developing resolutions to complex problems requiring SAP metrics analysis
+    - Leading and contributing to development of new processes and methodologies
+    - Several presentations for global management
+    - Reporting various financial data to finance and non-finance people
+    - Promoting and following established processes, policies, and standards
+    - Assuring compliance with corporate and regulatory policies
+

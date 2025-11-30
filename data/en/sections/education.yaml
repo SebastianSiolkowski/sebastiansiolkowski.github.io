@@ -1,0 +1,46 @@
+# section information
+section:
+  name: Education
+  id: education
+  enable: true
+  weight: 5
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+degrees:
+- name: Master's Degree in Financial Analysis
+  icon: fa-graduation-cap
+  timeframe: 2010-2012
+  institution:
+    name: University of Economics in Katowice
+    url: "https://ue.katowice.pl/en/"
+  grade:
+    scale: ""
+    achieved: ""
+  takenCourses:
+  - Financial Analysis
+  - Advanced Economics
+  - Quantitative Methods
+  - Investment Analysis
+  publications:
+  extracurricularActivities:
+
+- name: Bachelor's Degree in Statistics and Econometrics
+  icon: fa-graduation-cap
+  timeframe: 2016-2018
+  institution:
+    name: University of Economics in Katowice
+    url: "https://ue.katowice.pl/en/"
+  grade:
+    scale: ""
+    achieved: ""
+  takenCourses:
+  - Statistics
+  - Econometrics
+  - Data Analysis
+  - Mathematical Modeling
+  - Probability Theory
+  publications:
+  extracurricularActivities:
+
