@@ -1,0 +1,36 @@
+{
+  "name": "sebastiansiolkowski-portfolio",
+  "version": "1.0.0",
+  "description": "Sebastian Siolkowski - AI Expert Portfolio",
+  "main": "index.js",
+  "scripts": {
+    "start": "hugo server -w",
+    "build": "hugo --gc --minify"
+  },
+  "keywords": [
+    "hugo",
+    "portfolio",
+    "ai",
+    "machine-learning"
+  ],
+  "author": "Sebastian Siolkowski",
+  "license": "MIT",
+  "devDependencies": {
+    "@babel/cli": "^7.24.1",
+    "@babel/core": "^7.24.4",
+    "@babel/preset-env": "^7.24.4",
+    "autoprefixer": "^10.4.19",
+    "postcss": "^8.4.38",
+    "postcss-cli": "^11.0.0",
+    "tailwindcss": "^3.4.3"
+  },
+  "dependencies": {
+    "@fontsource/mulish": "^5.0.17",
+    "@fortawesome/fontawesome-free": "^6.5.2",
+    "flag-icons": "^7.2.1",
+    "katex": "^0.16.10",
+    "mermaid": "^10.9.0",
+    "prismjs": "^1.29.0"
+  }
+}
+

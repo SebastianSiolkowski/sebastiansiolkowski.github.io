@@ -1,0 +1,89 @@
+# section information
+section:
+  name: About
+  id: about
+  enable: true
+  weight: 1
+  showOnNavbar: true
+  template: sections/about.html
+
+# your designation
+designation: AI Expert | Senior AI Engineer
+# your company information
+company:
+  name: IQVIA & Causewaybti
+  url: ""
+
+# your resume. this file path should be relative to you "static" directory
+# Dreprecated. Use resourceLinks instead.
+# resume: "files/resume.pdf"
+
+# a summary about you
+summary: |
+  With a decade of expertise in data analytics and a robust foundation in AI and machine learning, I specialize in developing sophisticated data models and ETL pipelines that enhance organizational decision-making and digital transformation. My extensive experience includes leveraging NLP techniques to extract and analyze information from diverse data sources, such as scientific publications, social media, and market reports.
+
+# your social links
+# give as many as you want. use font-awesome for the icons.
+socialLinks:
+- name: Email
+  icon: "fas fa-envelope"
+  url: "mailto:sebastian.siolkowski@gmail.com"
+
+- name: LinkedIn
+  icon: "fab fa-linkedin"
+  url: "https://www.linkedin.com/in/sebastiansiolkowski"
+
+- name: Phone
+  icon: "fas fa-phone"
+  url: "tel:+48508280207"
+
+# Show your badges
+# You can show your verifiable certificates from https://www.credly.com.
+# You can also show a circular bar indicating the level of expertise on a certain skill
+badges:
+- type: soft-skill-indicator
+  name: Leadership
+  percentage: 90
+  color: blue
+
+- type: soft-skill-indicator
+  name: Team Work
+  percentage: 95
+  color: yellow
+
+- type: soft-skill-indicator
+  name: Hard Working
+  percentage: 95
+  color: orange
+
+# you can also provide color code instead of the color name
+# - type: soft-skill-indicator
+#   name: Example 1
+#   percentage: 75
+#   color: "#00adb5"
+
+# Core Competencies
+competencies:
+- name: "Advanced Data Analytics"
+  description: "Proficient in Python, with over 10 years of experience in data processing, visualization, and modeling using tools such as Pandas, Matplotlib, and PowerBI. Highly skilled in applying statistical algorithms for regression, classification, clustering, and decision trees."
+
+- name: "Machine Learning and AI"
+  description: "Demonstrated expertise in NLP and TensorFlow, successfully integrating AI technologies with traditional data practices to improve and innovate data analysis pipelines. Experienced in designing and implementing AI/ML solutions deployed on Azure."
+
+- name: "Cloud and Data Architecture"
+  description: "Deep understanding of Azure ecosystems, including CosmosDB, Blob Storage, and Azure Data Factory, with a keen ability to adapt to new cloud technologies. Skilled in designing data solutions that leverage cloud capabilities for scalability and performance."
+
+- name: "Strategic Leadership"
+  description: "Key contributor to data and AI strategies within companies, driving the adoption of advanced analytics and AI across business processes. Committed to fostering a learning culture by mentoring junior developers."
+
+- name: "Horizon Scanning and Trend Scouting"
+  description: "Engage in horizon scanning to detect emerging technologies and trends, ensuring strategies remain ahead of the curve. This proactive approach helps identify potential opportunities and risks."
+
+# Key Achievements
+achievements:
+- "Developed and refined ETL processes using Azure, PostgreSQL, and Excel, streamlining data flows for improved real-time analysis and reporting"
+- "Successfully tackled challenges integrating REST APIs with document management systems to enhance data accessibility and integrity"
+- "Led cross-functional teams to evaluate and enhance data architectures, models, and processes"
+- "Implemented a self-service data and AI culture, improving accessibility and understanding of data analytics across organizations"
+- "Created multiple AI-powered solutions including RAG systems, chatbots, and document processing pipelines"
+

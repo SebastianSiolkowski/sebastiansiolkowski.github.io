@@ -1,0 +1,112 @@
+# section information
+section:
+  name: Projects
+  id: projects
+  enable: true
+  weight: 4
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+# filter buttons
+buttons:
+- name: All
+  filter: "all"
+- name: AI/ML
+  filter: "ai-ml"
+- name: Azure
+  filter: "azure"
+- name: NLP
+  filter: "nlp"
+- name: Automation
+  filter: "automation"
+
+# your projects
+projects:
+- name: RAG System for Technical Documentation
+  logo: /images/sections/projects/rag.png
+  role: AI Advisor & Solution Architect
+  timeline: "2024"
+  repo: ""
+  summary: Conceived and developed a Retrieval-Augmented Generation solution on Azure for automating documentation for transformers in technical settings.
+  tags: ["ai-ml", "azure", "nlp"]
+  achievements:
+  - End-to-End Azure Deployment utilizing Azure Cognitive Search, Azure Functions, and Azure Storage
+  - Enabled instant retrieval of up-to-date engineering guidelines and best practices
+  - Provided interactive interface suggesting improvements and clarifications
+  - Constructed modular system to accommodate various transformer models
+  - Implemented stringent access controls and versioning protocols
+  - Streamlined query handling and response generation with optimized indexing
+
+- name: Marketing Digital Assistant
+  logo: /images/sections/projects/chatbot.png
+  role: Lead Developer
+  timeline: "2024"
+  repo: ""
+  summary: Designed and implemented a generative chatbot creating dynamic, context-specific questions for advertisements, A/B testing, and marketing strategy assessments.
+  tags: ["ai-ml", "nlp"]
+  achievements:
+  - Developed GPT prompts adapting to campaign objectives and target audiences
+  - Employed object-oriented code with Python backend and JavaScript frontend
+  - Incorporated analytics to observe user interactions and iterate on templates
+  - Scaled chatbot engine to handle varied marketing campaigns simultaneously
+  - Built with FastAPI for high-performance API endpoints
+
+- name: Document Classification Module
+  logo: /images/sections/projects/classification.png
+  role: ML Engineer
+  timeline: "2023"
+  repo: ""
+  summary: Developed an advanced document classification module categorizing documents with high accuracy using Langchain and Azure OpenAI.
+  tags: ["ai-ml", "azure", "nlp"]
+  achievements:
+  - Engineered highly scalable module easily integratable into existing applications
+  - Expertly harnessed Azure OpenAI to interact with GPT model
+  - Achieved streamlined process for converting unstructured to structured data
+  - Engaged in horizon scanning to identify emerging AI developments
+  - Demonstrated modular programming and cloud service expertise
+
+- name: OCR and GPT Integration for Document Processing
+  logo: /images/sections/projects/ocr.png
+  role: AI Engineer
+  timeline: "2023"
+  repo: ""
+  summary: Spearheaded development of state-of-the-art document processing solution synergizing OCR capabilities with GPT models.
+  tags: ["ai-ml", "azure", "nlp"]
+  achievements:
+  - Employed Azure Cognitive Services for custom OCR solution
+  - Pioneered integration strategy combining OCR-extracted text with GPT models
+  - Introduced optimization techniques reducing tokens required for GPT processing
+  - Implemented smarter preprocessing pipeline distilling essential information
+  - Achieved balance between performance and usability with simplified solution
+
+- name: Time Series Forecasting Module
+  logo: /images/sections/projects/forecasting.png
+  role: Data Scientist
+  timeline: "2022"
+  repo: ""
+  summary: Developed sophisticated forecasting module with GUI application using Facebook Prophet and TensorFlow, deployed in Docker container.
+  tags: ["ai-ml", "automation"]
+  achievements:
+  - Implemented Excel integration for seamless data upload
+  - Crafted intuitive GUI demystifying time series forecasting complexities
+  - Utilized Docker for consistent application performance across environments
+  - Enhanced forecasting with both Prophet and TensorFlow multivariate regression
+  - Enabled model comparison and optimization for various datasets
+  - Deployed on Linux VM for production use
+
+- name: Dynamic Email Clustering Solution
+  logo: /images/sections/projects/clustering.png
+  role: ML Developer
+  timeline: "2021"
+  repo: ""
+  summary: Introduced dynamic email clustering solution categorizing emails using K-Nearest Neighbors algorithm for AP mailbox backlog analysis.
+  tags: ["ai-ml", "automation", "nlp"]
+  achievements:
+  - Adapted KNN algorithm for text classification enabling accurate email grouping
+  - Employed text classification methodologies for high precision categorization
+  - Performed deep dive into email backlogs identifying bottlenecks and trends
+  - Provided actionable insights for optimizing workflow
+  - Leveraged Python for powerful and scalable solution
+  - Significantly reduced manual sorting efforts and accelerated response times
+
